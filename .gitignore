@@ -60,7 +60,13 @@ data/progress.json
 data/progress2.json
 app/assets/catalog.json
 
-# ---- 误落到仓库根目录的 Android SDK 文件（不是本项目的东西）----
+# ---- 曾误落到仓库根目录的 Android SDK 文件（2026-09-28 已删除，见下）----
+#   2026-09-24 手工补 SDK 时，有一批 platform-36 的文件被复制到了仓库根目录
+#   （android.jar / android-stubs-src.jar / core-for-system-modules.jar / uiautomator.jar /
+#     framework.aidl / sdk.properties / source.properties / build.prop / _moved_c.txt /
+#     zzlocktest\）。经哈希比对确认为 D:\Android\android-sdk\platforms\android-36\ 的
+#   逐字节副本、且全项目零引用，已于 2026-09-28 全部删除。这里保留忽略规则作保险，
+#   防止将来手工补 SDK 时又把它们丢到根目录。
 /android.jar
 /android-stubs-src.jar
 /core-for-system-modules.jar

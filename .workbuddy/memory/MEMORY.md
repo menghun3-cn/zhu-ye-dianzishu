@@ -59,6 +59,21 @@
 - SDK 在 `D:\Android\android-sdk`（`app/android/local.properties` 的 `sdk.dir`）。
 - 命令行构建前必须 `export ANDROID_HOME='D:\Android\android-sdk'`，否则报 `No Android SDK found`。
 
+## 仓库与提交（2026-09-28 首次入库）
+- 远端 `https://github.com/menghun3-cn/zhu-ye-dianzishu.git`，**public**，默认分支 **`main`**。
+  首次提交 `2a63cf7`（100 文件 / 0.56MB）。本地分支已从 `master` 改名为 `main`。
+- **书单数据一律不入库**（用户 2026-09-28 明确决定）：`data/{manifest,catalog}.jsonl`、
+  `data/manifest.meta.json`、`data/download-state.jsonl`、`data/progress*.json`、
+  `app/assets/catalog.json` 全在 `.gitignore` 里 —— 它们含带提取码的网盘分享链接，
+  公开仓库有 DMCA / 账号被标记风险。**clone 后必须跑 `build_manifest.py` +
+  `build_app_catalog.py` 才能构建 App**（`pubspec.yaml` 引用 `assets/catalog.json`）。
+- 同样不入库：`dist/`（111MB 二进制）、`app/build/`、`app/windows/flutter/ephemeral/`、`.gradlehome/`。
+- 根目录那批误落的 Android SDK 文件（`android.jar` 等 9 个 + `zzlocktest/`）
+  **已于 2026-09-28 二次核查后删除**（哈希证明是 D 盘 SDK 的逐字节副本、零引用），
+  释放 36MB；`.gitignore` 里的对应规则保留作保险。
+- 提交推送手法见 skill `windows-sandbox-git-commit-push`；本机 `core.autocrlf=true`，
+  仓库根已有 `.gitattributes` 固定换行符（`.vbs/.bat` 必须 CRLF）。
+
 ## 本机跑长驻任务的现实
 - `schtasks.exe` 已被安全策略拉黑，**不能注册/启动计划任务**；WMI `Win32_Process.Create`、`Add-Type`、Bash 里调 powershell 也都被拦。
 - 工具自带的后台任务**随会话结束即被回收**（曾因此白丢 3 天 16 小时）。
