@@ -1,0 +1,5 @@
+1357047280  old=1(chars=19,tocLike=true)  new=2(chars=28)  ch=13  title=[]
+1357047844  old=1(chars=52,tocLike=true)  new=2(chars=5435)  ch=31  title=[1]
+1357044931  old=1(chars=35,tocLike=true)  new=3(chars=94)  ch=448  title=[版权信息]
+
+total=54  changed=3  badNewLanding=0

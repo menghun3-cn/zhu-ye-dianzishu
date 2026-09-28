@@ -1,0 +1,41 @@
+# 本机 core.autocrlf=true，必须显式固定换行符，否则 .vbs/.bat 会被改坏
+* text=auto
+
+*.dart   text eol=lf
+*.py     text eol=lf
+*.md     text eol=lf
+*.json   text eol=lf
+*.jsonl  text eol=lf
+*.yaml   text eol=lf
+*.yml    text eol=lf
+*.txt    text eol=lf
+*.cmake  text eol=lf
+CMakeLists.txt text eol=lf
+
+# Windows 脚本必须 CRLF（VBScript 对 LF 不稳，且 .bat 在 cmd 下要 CRLF）
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.vbs text eol=crlf
+*.ps1 text eol=crlf
+
+# 二进制：不要做任何换行/编码转换
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.ttf  binary
+*.otf  binary
+*.woff binary
+*.woff2 binary
+*.zip  binary
+*.apk  binary
+*.aab  binary
+*.jar  binary
+*.so   binary
+*.dll  binary
+*.exe  binary
+*.epub binary
+*.mobi binary
+*.azw3 binary

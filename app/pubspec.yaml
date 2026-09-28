@@ -1,0 +1,28 @@
+name: zhu_ye_reader
+description: "竹叶阅读 —— 跨端 EPUB 阅读器（Windows / Android / iOS）"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # 纯 Dart，无平台插件 —— 三端一致，不引入原生构建风险
+  archive: ^3.6.1      # 读城通书包 zip / epub 容器
+  xml: ^6.5.0          # 解析 container.xml / OPF / NCX
+  html: ^0.15.4        # 解析 EPUB 章节 XHTML
+  # 不用 path_provider：见 lib/services/appdirs.dart 的说明（会引入符号链接 + jni 原生构建）
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/catalog.json

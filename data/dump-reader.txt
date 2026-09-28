@@ -1,0 +1,56 @@
+book=1357044529 title=亲历巴菲特股东大会 size=283865
+PageView=1 SelectionArea=1 Progress=0 Texts=36 RichTexts=42 elapsed=607ms
+pageViewRect=Rect.fromLTRB(22.0, 68.0, 878.0, 1436.0)
+itemCount=2
+viewPhysical=Size(900.0, 1500.0) dpr=1.0
+mq size=Size(900.0, 1500.0) dpr=1.0 padding=EdgeInsets.zero viewInsets=EdgeInsets.zero viewPadding=EdgeInsets.zero
+scaffoldRect=Rect.fromLTRB(0.0, 0.0, 900.0, 1500.0)
+appBarRect=Rect.fromLTRB(0.0, 0.0, 900.0, 56.0)
+sliderRect=Rect.fromLTRB(102.0, 1456.0, 752.3, 1492.0)
+sliderAncestors:
+  [0] SizedBox size=Size(650.3, 36.0)
+  [1] Expanded size=Size(650.3, 36.0)
+  [2] Row size=Size(872.0, 52.0)
+  [3] Padding size=Size(900.0, 52.0)
+  [4] SizedBox size=Size(900.0, 52.0)
+  [5] MediaQuery size=Size(900.0, 52.0)
+  [6] Padding size=Size(900.0, 52.0)
+  [7] SafeArea size=Size(900.0, 52.0)
+  [8] ColoredBox size=Size(900.0, 52.0)
+  [9] MediaQuery size=Size(900.0, 52.0)
+Text[0] len=9 isData=false [目录Content]
+Text[1] len=3 isData=true [·  ]
+Text[2] len=10 isData=false [推荐序 冷竣的观察者]
+Text[3] len=3 isData=true [·  ]
+Text[4] len=2 isData=false [序言]
+Text[5] len=3 isData=true [·  ]
+Text[6] len=14 isData=false [云淡风轻——初识奥马哈（1）]
+Text[7] len=3 isData=true [·  ]
+Text[8] len=14 isData=false [云淡风轻——初识奥马哈（2）]
+Text[9] len=3 isData=true [·  ]
+Text[10] len=14 isData=false [云淡风轻——初识奥马哈（3）]
+Text[11] len=3 isData=true [·  ]
+Text[12] len=14 isData=false [云淡风轻——初识奥马哈（4）]
+Text[13] len=3 isData=true [·  ]
+Text[14] len=14 isData=false [云淡风轻——初识奥马哈（5）]
+Text[15] len=3 isData=true [·  ]
+Text[16] len=14 isData=false [云淡风轻——初识奥马哈（6）]
+Text[17] len=3 isData=true [·  ]
+Text[18] len=15 isData=false [翘首企盼——开场前的等待（1）]
+Text[19] len=3 isData=true [·  ]
+Text[20] len=15 isData=false [翘首企盼——开场前的等待（2）]
+Text[21] len=3 isData=true [·  ]
+Text[22] len=15 isData=false [翘首企盼——开场前的等待（3）]
+Text[23] len=3 isData=true [·  ]
+Text[24] len=15 isData=false [翘首企盼——开场前的等待（4）]
+Text[25] len=3 isData=true [·  ]
+Text[26] len=21 isData=false [最伟大的投资家——回顾巴菲特辉煌历程（1）]
+Text[27] len=3 isData=true [·  ]
+Text[28] len=21 isData=false [最伟大的投资家——回顾巴菲特辉煌历程（2）]
+Text[29] len=3 isData=true [·  ]
+Text[30] len=21 isData=false [最伟大的投资家——回顾巴菲特辉煌历程（3）]
+Text[31] len=3 isData=true [·  ]
+Text[32] len=21 isData=false [最伟大的投资家——回顾巴菲特辉煌历程（4）]
+Text[33] len=9 isData=true [目录Content]
+Text[34] len=3 isData=true [1/1]
+Text[35] len=4 isData=true [3/20]

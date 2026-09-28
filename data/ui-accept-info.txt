@@ -1,0 +1,13 @@
+候选（按体积升序，最多看 10 本）:
+1357044529 亲历巴菲特股东大会 size=283865 ch=20 land=2 landPages=1 landChars=249
+1375510804 阿里人的答案书 size=300846 ch=9 land=1 landPages=1 landChars=23
+1357049221 海尔是海：张瑞敏随笔选录 size=438383 ch=3 land=1 landPages=2 landChars=450
+1375510129 创意短视频策划、推广、引流、爆粉与变现全能攻略 size=548008 ch=86 land=1 landPages=2 landChars=918
+1357032388 情绪认知 size=671352 ch=10 land=1 landPages=2 landChars=753
+1357044493 焦虑又怎样 size=771460 ch=47 land=1 landPages=1 landChars=78
+1356997795 杏仁 size=840623 ch=11 land=1 landPages=1 landChars=100
+1375504180 狮子之家的点心日 size=844191 ch=10 land=1 landPages=1 landChars=108
+1375501042 谢谢，但今天不行 size=845583 ch=74 land=1 landPages=1 landChars=59
+1357047280 再见，黑鸟 size=847752 ch=13 land=2 landPages=1 landChars=28
+选中(阅读/排版): 1357049221 海尔是海：张瑞敏随笔选录 landPages=2
+选中(键盘): 1375510129 创意短视频策划、推广、引流、爆粉与变现全能攻略 ch=86

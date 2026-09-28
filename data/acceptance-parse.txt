@@ -1,0 +1,69 @@
+OK   1357044529 ch=20 content=17 blocks=274 chars=24458 pages=98 imgs=3 cover=1 land=2 head=[目录Content推荐序 冷] 329ms
+OK   1375510804 ch=9 content=8 blocks=442 chars=19210 pages=80 imgs=1 cover=1 land=1 head=[阿里人的答案书阿里巴巴组织文] 142ms
+OK   1357049221 ch=3 content=2 blocks=662 chars=62017 pages=228 imgs=1 cover=1 land=1 head=[目录序一　海尔是海序二　海尔] 374ms
+OK   1375510129 ch=86 content=85 blocks=790 chars=60776 pages=261 imgs=1 cover=1 land=1 head=[著作权合同登记号：图字02-] 400ms
+OK   1357032388 ch=10 content=9 blocks=2433 chars=100234 pages=393 imgs=1 cover=1 land=1 head=[目录前言第一章 你的情绪里，] 567ms
+OK   1357044493 ch=47 content=46 blocks=1042 chars=56120 pages=240 imgs=1 cover=1 land=1 head=[版权信息书名：焦虑又怎样作者] 317ms
+OK   1356997795 ch=11 content=10 blocks=1378 chars=76339 pages=296 imgs=2 cover=1 land=1 head=[版权信息书名：杏仁作者：【韩] 332ms
+OK   1375504180 ch=10 content=9 blocks=1885 chars=97178 pages=368 imgs=2 cover=1 land=1 head=[版权信息书名：狮子之家的点心] 423ms
+OK   1375501042 ch=74 content=72 blocks=936 chars=64322 pages=265 imgs=5 cover=1 land=1 head=[谢谢，但今天不行Liebe ] 295ms
+OK   1357047280 ch=13 content=11 blocks=2158 chars=108505 pages=418 imgs=15 cover=1 land=2 head=[LandmarksTable] 463ms
+OK   1357047844 ch=31 content=30 blocks=3002 chars=157356 pages=607 imgs=1 cover=1 land=2 head=[1从一开始，我就感觉到了猫的] 628ms
+OK   1375510405 ch=22 content=21 blocks=1193 chars=73777 pages=276 imgs=6 cover=1 land=1 head=[作者介绍罗伯特•戴博德(Ro] 350ms
+OK   1357030213 ch=12 content=11 blocks=422 chars=98284 pages=354 imgs=2 cover=1 land=1 head=[版权信息天人之际：薛仁明读《] 723ms
+OK   1357035001 ch=16 content=14 blocks=2185 chars=153444 pages=558 imgs=2 cover=1 land=2 head=[图书在版编目（CIP）数据掌] 606ms
+OK   1357015057 ch=65 content=64 blocks=875 chars=105506 pages=413 imgs=17 cover=1 land=1 head=[陈春花管理系列管理的常识——] 681ms
+OK   1375506712 ch=55 content=53 blocks=1930 chars=107763 pages=427 imgs=2 cover=1 land=2 head=[图书在版编目（CIP）数据在] 444ms
+OK   1357048567 ch=14 content=12 blocks=1590 chars=122621 pages=454 imgs=8 cover=1 land=2 head=[图书在版编目（CIP）数据创] 467ms
+OK   1357039018 ch=67 content=66 blocks=2025 chars=125392 pages=502 imgs=4 cover=1 land=1 head=[要不断地为集体树立目标，并且] 524ms
+OK   1357007083 ch=46 content=42 blocks=988 chars=72642 pages=320 imgs=5 cover=1 land=1 head=[巴菲特致股东的信（精华篇）[] 346ms
+OK   1357042444 ch=20 content=19 blocks=1024 chars=209990 pages=760 imgs=1 cover=1 land=1 head=[边界[英]吉莲·邰蒂 著徐卓] 1931ms
+OK   1357021912 ch=164 content=153 blocks=1399 chars=118235 pages=495 imgs=11 cover=1 land=2 head=[图书在版编目（CIP ）数据] 480ms
+OK   1357051141 ch=63 content=62 blocks=667 chars=77248 pages=301 imgs=5 cover=1 land=1 head=[目录序言第一章　我与麦肯锡的] 374ms
+OK   1356999487 ch=81 content=80 blocks=3981 chars=178747 pages=729 imgs=6 cover=1 land=1 head=[版权信息书名：巴菲特和查理·] 810ms
+OK   1357018690 ch=76 content=75 blocks=2175 chars=244550 pages=894 imgs=9 cover=1 land=1 head=[华章经典·金融投资巴菲特致股] 913ms
+OK   1357030723 ch=63 content=62 blocks=1128 chars=155140 pages=586 imgs=6 cover=1 land=1 head=[版权信息书名：领导力思维作者] 1029ms
+OK   1357050910 ch=73 content=72 blocks=1888 chars=217076 pages=800 imgs=3 cover=1 land=1 head=[目录前言第1章 如何看待文化] 850ms
+OK   1357022539 ch=123 content=122 blocks=3231 chars=114652 pages=537 imgs=8 cover=1 land=1 head=[版权信息云边有个小卖部作者：] 596ms
+OK   1357027714 ch=128 content=127 blocks=1811 chars=192987 pages=792 imgs=27 cover=1 land=1 head=[巴菲特致股东的信·投资原则篇] 904ms
+OK   1357044763 ch=242 content=234 blocks=3292 chars=295935 pages=1185 imgs=12 cover=1 land=1 head=[总目录褚时健：经营为王褚时健] 1179ms
+OK   1357044820 ch=21 content=13 blocks=1072 chars=43400 pages=207 imgs=48 cover=1 land=1 head=[目录第1章：工作是为了什么第] 220ms
+OK   1357021978 ch=39 content=38 blocks=1893 chars=188136 pages=697 imgs=17 cover=1 land=1 head=[RELEASE POTENT] 796ms
+OK   1357039087 ch=4 content=3 blocks=2877 chars=181124 pages=683 imgs=16 cover=1 land=1 head=[版权信息在耶鲁精进：成为专才] 715ms
+OK   1357044766 ch=150 content=149 blocks=1736 chars=121534 pages=516 imgs=42 cover=1 land=1 head=[巴菲特投资案例集巴菲特的第一] 503ms
+OK   1357006663 ch=72 content=45 blocks=1879 chars=379085 pages=1429 imgs=27 cover=1 land=1 head=[目录前 言中文版序言第一章 ] 1556ms
+OK   1357031173 ch=13 content=12 blocks=1003 chars=109191 pages=425 imgs=25 cover=1 land=1 head=[图书在版编目（CIP）数据能] 550ms
+OK   1357048810 ch=33 content=32 blocks=813 chars=122945 pages=479 imgs=41 cover=1 land=1 head=[目录文前前言 什么是营销第一] 665ms
+OK   1357017625 ch=34 content=33 blocks=1879 chars=130597 pages=531 imgs=108 cover=1 land=1 head=[手把手教你读财报唐朝中国经济] 520ms
+OK   1357030801 ch=39 content=30 blocks=3802 chars=438266 pages=1681 imgs=82 cover=1 land=1 head=[目录第五项修炼·变革篇（上）] 1767ms
+OK   1357017424 ch=27 content=26 blocks=1671 chars=169659 pages=657 imgs=70 cover=1 land=1 head=[巴菲特之道（原书第3版）Th] 676ms
+OK   1357006246 ch=96 content=94 blocks=1119 chars=192302 pages=732 imgs=41 cover=1 land=1 head=[目录版权信息清清白白的汤唯干] 1909ms
+OK   1357017619 ch=86 content=85 blocks=1760 chars=141373 pages=599 imgs=116 cover=1 land=1 head=[手把手教你读财报.2，18节] 605ms
+OK   1356998941 ch=112 content=111 blocks=2315 chars=205605 pages=841 imgs=102 cover=1 land=1 head=[作者简介任俊杰，20世纪90] 1033ms
+OK   1357042372 ch=111 content=110 blocks=2129 chars=144252 pages=666 imgs=174 cover=1 land=1 head=[战略推演：获取竞争优势的思维] 844ms
+OK   1357035787 ch=520 content=507 blocks=47465 chars=2495881 pages=9436 imgs=13 cover=1 land=1 head=[总目录山河表里脱轨默读有匪全] 10214ms
+OK   1357031224 ch=33 content=20 blocks=4409 chars=378745 pages=1493 imgs=114 cover=1 land=1 head=[目录第五项修炼·实践篇（上）] 1518ms
+OK   1357031524 ch=5 content=4 blocks=639 chars=45623 pages=192 imgs=37 cover=1 land=1 head=[目录封面献第一部分 文化母体] 213ms
+OK   1375504366 ch=294 content=281 blocks=48208 chars=2563600 pages=11246 imgs=1300 cover=1 land=1 head=[总目录史记（第一册）史记（第] 21020ms
+OK   1375510375 ch=29 content=24 blocks=1295 chars=126224 pages=495 imgs=34 cover=1 land=1 head=[版权信息本书纸版由浙江教育出] 521ms
+OK   1357028677 ch=23 content=21 blocks=1808 chars=176888 pages=703 imgs=43 cover=1 land=2 head=[版权信息逆向创新作　　者：【] 707ms
+OK   1357011325 ch=22 content=21 blocks=2343 chars=80370 pages=563 imgs=465 cover=1 land=1 head=[版权信息书名：算法图解作者：] 494ms
+OK   1375511533 ch=123 content=117 blocks=6890 chars=694062 pages=2688 imgs=191 cover=1 land=1 head=[版权信息书名：日本企业家精选] 2920ms
+OK   1357044931 ch=448 content=439 blocks=16016 chars=1405733 pages=5483 imgs=299 cover=1 land=3 head=[版权信息书名：倾城之恋作者：] 9448ms
+OK   1357018714 ch=88 content=85 blocks=6526 chars=1053885 pages=3919 imgs=103 cover=1 land=1 head=[滚雪球——巴菲特和他的财富人] 5166ms
+OK   1357025650 ch=53 content=51 blocks=3432 chars=101556 pages=672 imgs=519 cover=1 land=2 head=[版权信息书名：新媒体写作平台] 610ms
+OK   1357034002 ch=51 content=50 blocks=1395 chars=131986 pages=562 imgs=136 cover=1 land=1 head=[目录作者简介前言 345薪酬] 651ms
+OK   1375498279 ch=140 content=124 blocks=3887 chars=248764 pages=1516 imgs=909 cover=1 land=1 head=[总目录国家宝藏.第一季国家宝] 1865ms
+OK   1375493836 ch=245 content=227 blocks=20328 chars=2337777 pages=10240 imgs=2784 cover=1 land=2 head=[目 录物·画·影：穿衣镜全球] 21292ms
+
+==== 解析层验收汇总 ====
+书包数            : 57
+章节总数          : 4555（其中含文字 4340）
+内容块总数        : 237395
+正文字符总数      : 17899067
+分页后总页数      : 72988
+图片块总数        : 8023
+落地空白（白屏）  : 0
+封面缺失的书      : 0
+不通过书包数      : 0
+耗时              : 106537ms

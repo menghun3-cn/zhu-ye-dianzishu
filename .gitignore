@@ -1,0 +1,87 @@
+# ============================================================================
+#  竹叶阅读 —— 仓库忽略规则
+#
+#  原则：**只入库源码与文档，不入库构建产物**。
+#    交付用的二进制（dist\*.zip / *.apk）用别的渠道给，不进 git
+#    —— 它们有 111MB，而且每次构建都会变，进去只会把仓库撑爆、无法 diff。
+# ============================================================================
+
+# ---- 交付二进制（单独分发，不入库）----
+dist/
+
+# ---- Flutter / Dart 构建产物 ----
+app/build/
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.pub-cache/
+app/.pub/
+app/windows/flutter/ephemeral/
+app/linux/flutter/ephemeral/
+app/macos/Flutter/ephemeral/
+app/ios/Flutter/ephemeral/
+app/ios/Pods/
+
+# ---- Android / Gradle 构建产物 ----
+.gradlehome/
+.gradle/
+build/
+.cxx/
+app/android/.gradle/
+app/android/.cxx/
+app/android/local.properties
+app/android/app/build/
+app/android/app/debug/
+app/android/app/profile/
+app/android/app/release/
+
+# ---- 下载器的运行时数据 ----
+data/logs/
+data/*.log
+data/_smoke*
+data/probe-*.txt
+*.part
+.tmp/
+
+# ---- ⚠️ 书单数据：**不入库**（2026-09-28）----
+#   这个远端仓库是 **public**。下面这些文件含全部书籍的网盘分享链接与提取码
+#   （形如 https://url89.ctfile.com/f/31084289-1375510375-05242f?p=8866），
+#   以及 24,071 条书名/作者。推上公开仓库等于公开一份电子书下载索引，
+#   有 DMCA / 账号被标记的实际风险，因此明确排除。
+#
+#   别人 clone 之后要自己重建：
+#     python tools/build_manifest.py       -> data/manifest.jsonl, data/catalog.jsonl
+#     python tools/build_app_catalog.py    -> app/assets/catalog.json（构建 App 必需）
+data/manifest.jsonl
+data/catalog.jsonl
+data/manifest.meta.json
+data/download-state.jsonl
+data/progress.json
+data/progress2.json
+app/assets/catalog.json
+
+# ---- 误落到仓库根目录的 Android SDK 文件（不是本项目的东西）----
+/android.jar
+/android-stubs-src.jar
+/core-for-system-modules.jar
+/uiautomator.jar
+/framework.aidl
+/sdk.properties
+/source.properties
+/build.prop
+/_moved_c.txt
+/zzlocktest/
+
+# ---- 编辑器 / 系统垃圾 ----
+.idea/
+*.iml
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# ---- Python ----
+__pycache__/
+*.pyc
